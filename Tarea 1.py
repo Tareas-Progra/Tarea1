@@ -8,7 +8,7 @@ turtle.speed (0) #Sin velocidad para que aparezca el circulo de una vez.
 turtle.up ()
 turtle.goto (0,-330)
 turtle.down ()
-turtle.bgpic ("fondo.gif")
+turtle.bgpic ("fondo.gif") #Si tienes algun error con esta linea, solo debes poner la ubicacion completa de la imagen.
 turtle.pencolor ("white")
 turtle.circle ((330), (360))
 turtle.goto (0,-160)
